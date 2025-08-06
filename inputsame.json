@@ -1,0 +1,38 @@
+{
+  "siteKitty": 10000,
+  "salesAgents": [
+    {
+      "id": "S1",
+      "performanceScore": 80,
+      "seniorityMonths": 12,
+      "targetAchievedPercent": 80,
+      "activeClients": 10,
+      "trainingHours": 30,
+      "customerFeedbackScore": 85,
+      "lateDeliveries": 2,
+      "teamContributionScore": 75
+    },
+    {
+      "id": "S2",
+      "performanceScore": 80,
+      "seniorityMonths": 12,
+      "targetAchievedPercent": 80,
+      "activeClients": 10,
+      "trainingHours": 30,
+      "customerFeedbackScore": 85,
+      "lateDeliveries": 2,
+      "teamContributionScore": 75
+    },
+    {
+      "id": "S3",
+      "performanceScore": 80,
+      "seniorityMonths": 12,
+      "targetAchievedPercent": 80,
+      "activeClients": 10,
+      "trainingHours": 30,
+      "customerFeedbackScore": 85,
+      "lateDeliveries": 2,
+      "teamContributionScore": 75
+    }
+  ]
+}

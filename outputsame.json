@@ -1,0 +1,19 @@
+{
+  "allocations": [
+    {
+      "id": "S1",
+      "assignedDiscount": 3333,
+      "justification": "Moderate performance with potential for growth"
+    },
+    {
+      "id": "S2",
+      "assignedDiscount": 3333,
+      "justification": "Moderate performance with potential for growth"
+    },
+    {
+      "id": "S3",
+      "assignedDiscount": 3334,
+      "justification": "Moderate performance with potential for growth"
+    }
+  ]
+}

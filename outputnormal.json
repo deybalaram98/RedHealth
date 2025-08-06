@@ -1,0 +1,14 @@
+{
+  "allocations": [
+    {
+      "id": "A1",
+      "assignedDiscount": 10000,
+      "justification": "Consistently high performance and long-term contribution"
+    },
+    {
+      "id": "A2",
+      "assignedDiscount": 0,
+      "justification": "Needs support and improvement"
+    }
+  ]
+}
